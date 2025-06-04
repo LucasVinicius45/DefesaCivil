@@ -1,3 +1,14 @@
+ ---
+# Membros
+
+### Irana Pereira – RM 98593
+
+### Lucas Vinicius – RM 98480
+
+### Mariana Melo – RM 98121
+
+ ---
+ 
 # Defesa Civil App
 
 Aplicativo mobile desenvolvido em **React Native** com **Expo**, para auxiliar cidadãos no registro de episódios de falta de energia causados por eventos naturais como chuvas intensas, ventos ou deslizamentos.
